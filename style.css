@@ -1,0 +1,20 @@
+body {
+	background-color: #1a1a1a;
+	text-align:center;
+	font-size:26px;
+	color:white;
+	
+}
+#head{
+	text-align:center;
+	font-size:35px;
+	color:#1be272;
+	font-style:italic;
+}
+#p{
+	text-align:left;
+	font-size:35px;
+	color:white;
+	font-style:italic;
+	word-wrap:break-word;
+}
